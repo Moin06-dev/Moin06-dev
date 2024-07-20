@@ -30,14 +30,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moin06-dev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moin06-dev&theme=dark&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moin06-dev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moin06-dev&theme=dark&hide_border=false" alt="GitHub Streak" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="200">
 </div>
 
-## 🚀 Dynamic Contributions
+## 🏆 GitHub Trophies
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Moin06-dev&theme=github-dark&hide_border=false)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moin06-dev&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+</div>
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moin06-dev&style=for-the-badge&color=blue" alt="Profile Views">
+</div>
 
 ## 🌐 Connect with Me
 
