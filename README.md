@@ -35,17 +35,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="200">
 </div>
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moin06-dev&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</div>
+### [Project 1: Tools'it](https://github.com/Moin06-dev/tools-it)
+A versatile suite of tools including text-to-speech, password generator, and to-do list with CRUD operations.
 
-## 📈 Profile Views
+### [Project 2: E-commerce Store](https://github.com/Moin06-dev/e-commerce)
+A dynamic e-commerce platform tailored for Gen Z with a variety of trendy products.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moin06-dev&style=for-the-badge&color=blue" alt="Profile Views">
-</div>
+### [Project 3: Images Web Search](https://github.com/Moin06-dev/images-web-search)
+A web application that retrieves HD photos from around the world based on user search queries.
 
 ## 🌐 Connect with Me
 
