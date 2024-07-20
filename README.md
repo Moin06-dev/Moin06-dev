@@ -57,17 +57,7 @@ A web application that retrieves HD photos from around the world based on user s
 ## 🎨 Animation Showcase
 <!-- Animated Gradient Circle -->
 <div align="center">
-  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="100" cy="100" r="80" fill="none" stroke="url(#grad)" stroke-width="10">
-      <animate attributeName="stroke-dasharray" from="0, 502" to="502, 0" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color: #ff7e5f; stop-opacity: 1" />
-        <stop offset="100%" style="stop-color: #feb47b; stop-opacity: 1" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://example.com/your-animation.gif" alt="Animated GIF">
 </div>
 
 
