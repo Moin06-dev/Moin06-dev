@@ -35,6 +35,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="200">
 </div>
 
+##
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
 ## 🚀 Featured Projects
 
 ### [Project 1: Tools'it](https://github.com/Moin06-dev/tools-it)
@@ -54,10 +59,7 @@ A web application that retrieves HD photos from around the world based on user s
   <a href="mailto:Moin06.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-## 🎨 Animation Showcase
-<!-- Animated Gradient Circle -->
-<div align="center">
-  <img src="https://example.com/your-animation.gif" alt="Animated GIF">
-</div>
+
+
 
 
