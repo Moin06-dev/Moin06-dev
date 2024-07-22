@@ -40,17 +40,6 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
-## 🚀 Featured Projects
-
-### [Project 1: Tools'it](https://github.com/Moin06-dev/tools-it)
-A versatile suite of tools including text-to-speech, password generator, and to-do list with CRUD operations.
-
-### [Project 2: E-commerce Store](https://github.com/Moin06-dev/e-commerce)
-A dynamic e-commerce platform tailored for Gen Z with a variety of trendy products.
-
-### [Project 3: Images Web Search](https://github.com/Moin06-dev/images-web-search)
-A web application that retrieves HD photos from around the world based on user search queries.
-
 ## 🌐 Connect with Me
 
 <div align="center">
