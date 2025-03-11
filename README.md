@@ -1,14 +1,19 @@
-# 👋 Hi there, I'm Moinuddin Khan!
+# 👋 Hi there, I'm Moinuddin Khan!  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Crafting+Futuristic+Web+Experiences!+🚀)  
+ 
+🚀 **Bringing Code to Life!** ✨🎭⚡ I don’t just build websites—I craft immersive, interactive experiences with **3D visuals, fluid animations, and dynamic UI elements.**  
 
-🔭 **Web Development Aficionado:** I am deeply engrossed in the realm of web development, perpetually enhancing my skills and embracing new technologies.
+📫 **Reach Out:** 📩 [Moin06.dev@gmail.com](mailto:Moin06.dev@gmail.com)  
 
-📫 **Reach Out:** [Moin06.dev@gmail.com](mailto:Moin06.dev@gmail.com)
+🌱 **Current Endeavor:** 🚀 Mastering the MERN Stack while diving into **GSAP, Three.js, and WebGL**—turning the web into a playground of motion and depth.  
 
-🌱 **Current Endeavor:** Mastering the MERN Stack to create robust and dynamic applications.
+⚡ **Interesting Tidbit:** I once coded for **11 hours straight**—fueled by passion, determination, and a dangerously high amount of caffeine!🚗🔥  
 
-⚡ **Interesting Tidbit:** I once coded for 11 hours straight, driven by sheer passion, determination, and plenty of soft drinks!
+🎮 **Beyond Development:** When I’m not coding, I’m either racing through **F1 circuits, gaming, or designing stunning 3D visuals.**  
 
-🎮 **Beyond Development:** When I'm not coding, I relish watching F1 racing, gaming, and exploring illustrations and digital art.
+✨ **Bringing the Web to Life:** From **smooth scroll effects** to **mind-blowing 3D interactions**, I thrive on making web experiences that **move, react, and engage!**  
+
+
 
 ## 💻 Tech Stack
 
@@ -66,19 +71,33 @@
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats-hussainweb.vercel.app/api?username=Moin06-dev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moin06-dev&theme=dark&hide_border=false" alt="GitHub Streak" height="200">
-  <img src="https://github-readme-stats-hussainweb.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="200">
-</div>
+<p align="center">
+  <a href="https://github.com/Moin06-dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moin06-dev&show_icons=true&theme=radical&hide_border=true" />
+<br>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moin06-dev&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 
-##
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+## **🎯 Most Used Languages**
+<p align="center">
+  <a href="https://github.com/Moin06-dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+
+
+## 🚀 GitHub Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moin06-dev&theme=github-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
+
+
 
 ## 🌐 Connect with Me
 
