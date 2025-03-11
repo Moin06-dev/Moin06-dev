@@ -69,10 +69,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moin06-dev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats-hussainweb.vercel.app/api?username=Moin06-dev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moin06-dev&theme=dark&hide_border=false" alt="GitHub Streak" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="200">
+  <img src="https://github-readme-stats-hussainweb.vercel.app/api/top-langs/?username=Moin06-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="200">
 </div>
+
 
 ##
 <div align="center">
